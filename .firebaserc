@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "restaurante-522b9",
+    "chat": "chat-2bd23",
+    "restaurante": "restaurante-a8ee2",
+    "restauranteMaps": "restaurante-a8ee2"
+  }
+}
